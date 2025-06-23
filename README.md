@@ -100,3 +100,4 @@ This project is for educational and research purposes.
 - [TensorFlow](https://www.tensorflow.org/)
 - [Keras Applications](https://keras.io/api/applications/)
 - [scikit-learn](https://scikit-learn.org/)
+- [Wine X Dataset](https://github.com/rogerioxavier/X-Wines)
